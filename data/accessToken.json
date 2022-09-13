@@ -1,9 +1,0 @@
-{
-    "msgCode" : "0000",
-    "msgContent" : "SUCCESS",
-    "result" : {
-      "accessToken" : "eyJhbGciOiJIUzI1NiJ9.eyJJREVOVElUWSI6IjIyMDcyMDAwMDE5NzQxIiwiTE9HSU5fRkxBRyI6ZmFsc2UsIlNFU1NJT05fSUQiOiI2ZGM5OWZmNi0xODhhLTQ0N2MtYTBkZC1kMGQ1ODRmZDRjZTMifQ.rc48WtC-iuZpBdDVGv9HFXo6U2oZ29XNH4QQ26923h4",
-      "apiParam": true,
-      "apiTransmit": true
-    }
-}
