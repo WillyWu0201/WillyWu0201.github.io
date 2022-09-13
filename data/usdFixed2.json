@@ -1,0 +1,20 @@
+{
+    "msgCode": "0000",
+    "msgContent": "Success",
+    "result": {
+        "fixedDepositList": [
+            {
+                "account": "44558822",
+                "curr": "USD",
+                "balance": 10000.11
+            },
+            {
+                "account": "77990023",
+                "curr": "USD",
+                "balance": 5000
+            }
+        ]
+    }
+  }
+  
+  

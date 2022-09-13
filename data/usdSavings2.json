@@ -1,0 +1,20 @@
+{
+    "msgCode": "0000",
+    "msgContent": "Success",
+    "result": {
+        "savingsList": [
+            {
+                "account": "44558824",
+                "curr": "USD",
+                "balance": 20000.7
+            },
+            {
+                "account": "77990025",
+                "curr": "USD",
+                "balance": 1000.19
+            }
+        ]
+    }
+  }
+  
+  
