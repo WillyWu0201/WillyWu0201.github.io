@@ -10,7 +10,7 @@
           "message" : "You've Deposited USD 0.10 to A\/C XXXXXXXXXX0139. Your AVAIL BAL is USD 9979.25"
         },
         {
-          "status" : false,
+          "status" : true,
           "updateDateTime" : "2022\/09\/02 09:07:00",
           "title" : "Account Created",
           "message" : "Your account has been confirmed successfully.You can log in and access our services"
@@ -28,19 +28,19 @@
           "message" : "You've Deposited USD 0.01 to A\/C XXXXXXXXXX0139. Your AVAIL BAL is USD 9988.52"
         },
         {
-          "status" : false,
+          "status" : true,
           "updateDateTime" : "2022\/08\/23 14:56:30",
           "title" : "Account transaction",
           "message" : "You've withdrawn USD 0.11 from A\/C XXXXXXXXXX0139. Your AVAIL BAL is USD 9988.41"
         },
         {
-          "status" : false,
+          "status" : true,
           "updateDateTime" : "2022\/08\/24 10:17:00",
           "title" : "Account transaction",
           "message" : "You've Deposited USD 0.10 to A\/C XXXXXXXXXX0139. Your AVAIL BAL is USD 9989.65"
         },
         {
-          "status" : false,
+          "status" : true,
           "updateDateTime" : "2022\/08\/24 10:23:00",
           "title" : "Account transaction",
           "message" : "You've Deposited USD 0.10 to A\/C XXXXXXXXXX0139. Your AVAIL BAL is USD 9989.7"
@@ -88,7 +88,7 @@
           "message" : "Your account has been confirmed successfully.You can log in and access our services"
         },
         {
-          "status" : false,
+          "status" : true,
           "updateDateTime" : "2022\/08\/24 10:41:00",
           "title" : "Account transaction",
           "message" : "You've withdrawn USD 9.70 from A\/C XXXXXXXXXX0139. Your AVAIL BAL is USD 9980"
@@ -100,13 +100,13 @@
           "message" : "You've Deposited USD 0.01 to A\/C XXXXXXXXXX0139. Your AVAIL BAL is USD 9988.41"
         },
         {
-          "status" : false,
+          "status" : true,
           "updateDateTime" : "2022\/08\/23 14:00:00",
           "title" : "Account Created",
           "message" : "Your account has been confirmed successfully.You can log in and access our services"
         },
         {
-          "status" : false,
+          "status" : true,
           "updateDateTime" : "2022\/08\/24 10:49:00",
           "title" : "Account transaction",
           "message" : "You've withdrawn USD 1.00 from A\/C XXXXXXXXXX0139. Your AVAIL BAL is USD 9978.95"
