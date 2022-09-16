@@ -10,15 +10,19 @@
           },
           {
               "adSeqNo": 2,
-              "linkUrl": "https://willywu0201.github.io/data/banner1.jpg"
+              "linkUrl": "https://willywu0201.github.io/data/banner2.jpg"
           },
           {
               "adSeqNo": 3,
-              "linkUrl": "https://willywu0201.github.io/data/banner1.jpg"
+              "linkUrl": "https://willywu0201.github.io/data/banner3.jpg"
           },
           {
               "adSeqNo": 4,
-              "linkUrl": "https://willywu0201.github.io/data/banner1.jpg"
+              "linkUrl": "https://willywu0201.github.io/data/banner4.jpg"
+          },
+          {
+              "adSeqNo": 5,
+              "linkUrl": "https://willywu0201.github.io/data/banner5.jpg"
           }
       ]
     }
