@@ -16,7 +16,7 @@
         {
             "funcType" : "Transfer",
             "nickname" : "Candy001",
-            "transType" : "CUBC"
+            "transType" : "PMF"
         },
         {
             "funcType" : "Payment",
@@ -41,7 +41,7 @@
         {
             "funcType" : "Payment",
             "nickname" : "Emma002",
-            "transType" : "Mobile"
+            "transType" : "PMF"
         }
       ]
     }
