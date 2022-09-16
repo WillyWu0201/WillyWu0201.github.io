@@ -6,12 +6,12 @@
             {
                 "account": "44558822",
                 "curr": "USD",
-                "balance": 10000.11
+                "balance": 20000.11
             },
             {
                 "account": "77990023",
                 "curr": "USD",
-                "balance": 5000
+                "balance": 1000
             }
         ]
     }
