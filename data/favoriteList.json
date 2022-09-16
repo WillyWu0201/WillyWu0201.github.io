@@ -4,42 +4,34 @@
     "result" : {
       "favoriteList" : [
         {
-            "funcType" : "Transfer",
             "nickname" : "Willy001",
             "transType" : "CUBC"
         },
         {
-            "funcType" : "Payment",
             "nickname" : "Willy002",
             "transType" : "Mobile"
         },
         {
-            "funcType" : "Transfer",
             "nickname" : "Candy001",
             "transType" : "PMF"
         },
         {
-            "funcType" : "Payment",
             "nickname" : "Candy002",
             "transType" : "CreditCard"
         },
         {
-            "funcType" : "Transfer",
             "nickname" : "Clay001",
             "transType" : "Mobile"
         },
         {
-            "funcType" : "Payment",
             "nickname" : "Clay002",
             "transType" : "CreditCard"
         },
         {
-            "funcType" : "Transfer",
             "nickname" : "Emma001",
             "transType" : "CUBC"
         },
         {
-            "funcType" : "Payment",
             "nickname" : "Emma002",
             "transType" : "PMF"
         }
